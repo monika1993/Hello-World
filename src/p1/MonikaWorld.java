@@ -7,7 +7,7 @@ public class MonikaWorld {
 		System.out.println("It is Monika world!");
 		System.out.println("Monika Likes chole bhature");
 		System.out.println("Monika wants jacket");
-		System.out.println("Monika wants to go Paris");
+		System.out.println("Monika wants to go to XYZ Place");
 		
 		
 		
